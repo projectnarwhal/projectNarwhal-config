@@ -1,0 +1,5 @@
+projectNarwhal Configuration Repository
+=======================================
+This repository has been created to contain configuration files relating to projectNarwhal (e.g. MongoDB schemas, Solr configuration, etc.)
+
+[Click here for the main projectNarwhal repository](https://github.com/projectNarwhal/projectNarwhal/)
